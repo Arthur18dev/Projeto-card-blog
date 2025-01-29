@@ -1,4 +1,4 @@
-# Frontend Mentor - Blog preview card
+# Frontend Mentor - Cartão de visualização do blog
 
 ![Design preview for the Blog preview card coding challenge](./preview.jpg)
 
@@ -32,7 +32,7 @@ Gostei muito de fazer esse projeto, a finalidade que eu tinha era melhorar minha
 
 # Licença
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)]()
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Arthur18dev/Projeto-card-blog?tab=MIT-1-ov-file)
 
 
 **Obrigado por ter lido** 🚀
